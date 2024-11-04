@@ -31,7 +31,7 @@ const verifyEmail=async(email: string | string[] ,link:string)=>{
             service:"gmail",
             auth:{
                 user:"vongola392112@gmail.com",
-                pass:"obxoufgsowrcxiph",
+                pass:"11111111",
             },
             tls:{
                 rejectUnauthorized:false
