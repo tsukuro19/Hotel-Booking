@@ -5,7 +5,7 @@ import nodemailer from "nodemailer";
 declare global{
     namespace Express{
         interface Request{
-            userId:string;
+            userI:string;
         }
     }
 }
